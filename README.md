@@ -1,4 +1,6 @@
-<img src="./assets/4.jpg" />
+<p align="center">
+<img width="200" src="./assets/logo.jpg" />
+</p>
 
 # Tesla
 
